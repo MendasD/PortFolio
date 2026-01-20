@@ -225,6 +225,27 @@ function openModal(projectId) {
             ],
             github: 'https://github.com/MendasD/GestionNotes/tree/main/gestion_notes',
             demo: null
+        },
+        project4: {
+            title: 'Application mobile Yëggal Services ',
+            description: 'Application de mise en relation entre demandeurs et prestataires de services.',
+            technologies: ['Flutter', 'Firebase', 'Dart', 'APIs'],
+            features: [
+                'Mise en relation entre demandeurs et prestataires',
+                'Système de messagerie en temps réel',
+                'Gestion des profils utilisateurs',
+                'Notifications push',
+                'Intégration de cartes et géolocalisation'
+            ],
+            images: [
+                'assets/yeggal_android/01.png',
+                'assets/yeggal_android/02.png',
+                'assets/yeggal_android/03.png',
+                'assets/yeggal_android/04.png',
+                'assets/yeggal_android/05.png',
+            ],
+            github: 'https://github.com/MendasD/',
+            demo: 'https://yeggalservices.app/'
         }
         // Autres projets ici
     };
