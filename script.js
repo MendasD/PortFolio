@@ -242,7 +242,7 @@ function openModal(projectId) {
                 'assets/yeggal_android/02.png',
                 'assets/yeggal_android/03.png',
                 'assets/yeggal_android/04.png',
-                'assets/yeggal_android/05.png',
+                'assets/yeggal_android/05.png'
             ],
             github: 'https://github.com/MendasD/',
             demo: 'https://yeggalservices.app/'
