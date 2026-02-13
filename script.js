@@ -247,6 +247,21 @@ function openModal(projectId) {
             github: 'https://github.com/MendasD/',
             demo: 'https://yeggalservices.app/'
         },
+        project6: {
+            title: 'Classification hiérarchique et réduction de dimensionnalité',
+            description: 'Analyse factorielle des correspondances et classification hiérarchique pour segmenter des pays selon un indice construit à partir de caractéristiques socio-économiques.',
+            technologies: ['Statistiques', 'R', 'ACP', 'K-Means'],
+            features: [
+                'Analyse exploratoire des données (EDA)',
+                'Vsualisations graphiques avec R',
+                'Analyse en composantes principales',
+                'Construction d\' indices',
+                'Classification K-Means',
+            ],
+            images: [],
+            github: 'https://github.com/MendasD/Analyse-factorielle-et-classification-hierarchique/blob/main/Projet_David_Christ.qmd',
+            demo: null
+        },
         project7: {
             title: 'NOXA - Assistant en recherche documentaire scientifique ',
             description: 'Noxa est un chatbot de type RAG, entraîné sur des rapports et mémoires scientifiques, spécialisé donc pour unr recherche approfondie sur un ensemble de documents scientifiques complexes.',
