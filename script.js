@@ -246,6 +246,26 @@ function openModal(projectId) {
             ],
             github: 'https://github.com/MendasD/',
             demo: 'https://yeggalservices.app/'
+        },
+        project7: {
+            title: 'NOXA - Assistant en recherche documentaire scientifique ',
+            description: 'Noxa est un chatbot de type RAG, entraîné sur des rapports et mémoires scientifiques, spécialisé donc pour unr recherche approfondie sur un ensemble de documents scientifiques complexes.',
+            technologies: ['NLP', 'RAG', 'LLM', 'Transformers', 'Langchain'],
+            features: [
+                'Mise à disposition de divers rapports et mémoires sur diverses thématiques',
+                'Recherche simple sur un ensemble de documents',
+                'Echange entre utilisateurs au sujet de thématiques variées grâce aux espaces de discussion',
+                'Recher avancée sur les documents via l\' interface du chatbot',
+                'Assistant IA prêt à aider dans la rédaction de documents scientifiques'
+            ],
+            images: [
+                'assets/noxa.png',
+                'assets/noxa_1.png',
+                'assets/noxa_2.png',
+                'assets/noxa_3.png'
+            ],
+            github: 'https://github.com/MendasD/Chatbot-RAG',
+            demo: 'https://noxa-production.up.railway.app/'
         }
         // Autres projets ici
     };
